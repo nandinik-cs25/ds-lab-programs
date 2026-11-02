@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\admin\onedrive\nandini\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1791172708 source:c:\users\admin\onedrive\nandini\lab2\op.c
+	<stdio.h>
+	<ctype.h>
+
